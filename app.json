@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.marcal1976.CIADApp"
     },
     "web": {
       "bundler": "metro",
@@ -42,7 +43,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "99700b56-1052-4033-9a1b-02a3188b066b"
+        "projectId": "2bac42de-3357-4a22-b2e6-d59cffdb6408"
       }
     }
   }
